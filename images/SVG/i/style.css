@@ -1,0 +1,36 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.i-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.i-logo {
+  width: 4.1953125em;
+}
+
+.i-comfort {
+  width: 1.2265625em;
+}
+
+.i-food {
+  width: 1.2919921875em;
+}
+
+.i-nature {
+  width: 1.4638671875em;
+}
+
+.i-party {
+  width: 1.5927734375em;
+}
